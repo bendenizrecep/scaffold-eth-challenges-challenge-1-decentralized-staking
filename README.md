@@ -1,12 +1,7 @@
 # This project is the solution of the challenge "scaffold-eth challenge-1-decentralized-staking".
 
-The website I deployed = https://glib-disease.surge.sh/
-Contract = https://rinkeby.etherscan.io/address/0xD1Ca88C2066f125ff5C21D25789B906a791Edd9c#code
-
-# This project is the solution of the challenge "scaffold-eth challenge-1-decentralized-staking".
-
-The website I deployed = https://glib-disease.surge.sh/
-Contract = https://rinkeby.etherscan.io/address/0xD1Ca88C2066f125ff5C21D25789B906a791Edd9c#code
+- The website I deployed = https://glib-disease.surge.sh/
+- Contract = https://rinkeby.etherscan.io/address/0xD1Ca88C2066f125ff5C21D25789B906a791Edd9c#code
 
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
